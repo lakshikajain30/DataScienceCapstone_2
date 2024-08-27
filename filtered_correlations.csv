@@ -1,0 +1,18 @@
+,nodal_skin_eruptions,shivering,muscle_wasting,patches_in_throat,sunken_eyes,dehydration,blurred_and_distorted_vision,excessive_hunger,extra_marital_contacts,bladder_discomfort,foul_smell_of urine,continuous_feel_of_urine,dischromic _patches,watering_from_eyes,pus_filled_pimples,blackheads,scurring
+nodal_skin_eruptions,,,,,,,,,,,,,0.8863951233028547,,,,
+shivering,,,,,,,,,,,,,,0.8863951233028546,,,
+muscle_wasting,,,,0.8863951233028544,,,,,0.8863951233028544,,,,,,,,
+patches_in_throat,,,0.8863951233028544,,,,,,0.8863951233028544,,,,,,,,
+sunken_eyes,,,,,,0.8863951233028541,,,,,,,,,,,
+dehydration,,,,,0.8863951233028541,,,,,,,,,,,,
+blurred_and_distorted_vision,,,,,,,,0.8161543580252525,,,,,,,,,
+excessive_hunger,,,,,,,0.8161543580252525,,,,,,,,,,
+extra_marital_contacts,,,0.8863951233028544,0.8863951233028544,,,,,,,,,,,,,
+bladder_discomfort,,,,,,,,,,,0.8878362601800929,,,,,,
+foul_smell_of urine,,,,,,,,,,0.8878362601800929,,0.8878362601800932,,,,,
+continuous_feel_of_urine,,,,,,,,,,,0.8878362601800932,,,,,,
+dischromic _patches,0.8863951233028547,,,,,,,,,,,,,,,,
+watering_from_eyes,,0.8863951233028546,,,,,,,,,,,,,,,
+pus_filled_pimples,,,,,,,,,,,,,,,,0.8863951233028529,0.8863951233028529
+blackheads,,,,,,,,,,,,,,,0.8863951233028529,,0.8863951233028529
+scurring,,,,,,,,,,,,,,,0.8863951233028529,0.8863951233028529,
